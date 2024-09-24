@@ -9,6 +9,7 @@ html, body{
     height: 100vh;
     font-family: fantasy;
     background-color: #2c2929;
+    color: #f1f1f1;
 }
 
 .container{
@@ -16,6 +17,11 @@ html, body{
     height: 100%;
     display: grid;
     place-items: center;
+}
+
+p{
+    font-size: 3rem;
+    letter-spacing: 2px;
 }
 
 #images{
