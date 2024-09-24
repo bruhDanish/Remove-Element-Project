@@ -19,7 +19,7 @@ html, body{
     place-items: center;
 }
 
-p{
+.banner{
     font-size: 3rem;
     letter-spacing: 2px;
 }
@@ -47,7 +47,7 @@ li a{
     color: #f1f1f1;
 }
 
-li:last-child{
+#lastLi{
     display: grid;
     place-items: center;
     border-radius: 5px;
